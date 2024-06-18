@@ -44,7 +44,7 @@ function Wallet({
         <br />
       </p>
       <label>
-        Wallet Address
+        Private key
         <input
           placeholder="Type an private key, for example: 01"
           value={privateKey}
